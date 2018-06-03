@@ -32,3 +32,7 @@ function appendKitten(kitten){
 function prependKitten(kitten){
   return [kitten,...kittens]
 }
+
+function prependKitten(kitten){
+  return [kitten,...kittens]
+}
