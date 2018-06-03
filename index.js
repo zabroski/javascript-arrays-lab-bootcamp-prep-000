@@ -28,3 +28,7 @@ function prependKitten(kitten){
 function appendKitten(kitten){
   return [...kittens,kitten]
 }
+
+function appendKitten(kitten){
+  return [...kittens,kitten]
+}
