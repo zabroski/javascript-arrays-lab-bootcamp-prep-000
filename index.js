@@ -15,10 +15,10 @@ function destructivelyRemoveLastKitten(){
   return kittens
 }
 
-/*function destructivelyRemoveFirstKitten(){
+function destructivelyRemoveFirstKitten(){
   kittens.shift()
   return kittens
-}*/
+}
 
 function prependKitten(kitten){
   kittens.shift()
